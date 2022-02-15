@@ -10,7 +10,7 @@ function FavList(props){
                     <FavoriteMemesList favoriteList={props.favoriteList} />
                 )}
             </main>
-     </>git add
+     </>
  )
 }
 
